@@ -1,0 +1,31 @@
+Intro:
+ 1. Hola
+ 2. Variables y Constantes
+ 3. Tipos de datos
+ 4. InferenciaTipos
+ 5. ContatInter
+ 6. CalculadoraEnteros
+ 7. CalculadoraReales
+ 8. ConversorTemperatura
+ 9. ConversorDistancia
+10. CalcuIMC
+11. AreaCirculo
+12. AnalizadorNombre
+13. ConversorTiempo
+
+Control de flujo:
+ 1. Condicional1
+ 2. Condicional2
+ 3. Condicional3
+ 4. Condicional4  
+ 5. Condicional5
+ 6. Condicional6
+ 7. OpersRelacionales
+ 8. Ternario
+ 9. OpersAsignacion
+10. Moneda
+11. EsVocal (Oper lógicos 20 minutos)
+12. Rango1
+13. Rango2
+14. EsBisiesto
+15. MenuWhen
